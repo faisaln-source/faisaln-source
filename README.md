@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Software Engineer | Angular & MEAN Stack Developer<br>🚀 4 years building scalable web applications<br>⚡ JavaScript • TypeScript • Node.js • MongoDB<br>🌍 Open to exciting opportunities<br>🌱 Learning System Design & Advanced Frontend Architecture
+💻 Software Engineer | Angular & MEAN Stack Developer<br>🚀 4 years building scalable web applications<br>⚡ Angular • JavaScript • TypeScript • Node.js • MongoDB<br>🌍 Open to exciting opportunities<br>🌱 Learning System Design & Advanced Frontend Architecture
 
 
 ## 🌐 Socials:
